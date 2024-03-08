@@ -5,7 +5,7 @@ using a file called **protein_fitness_prediction.yml** which will yield a lot of
 a lot of older versions of the modules. Here is how you can create the necessary environment working. At least at worked 
 for me. Of course, further testing will be needed.
 
-1) Get protein_fitness_prediction.yml from [THIS](https://raw.githubusercontent.com/Ortlund-Laboratory/topfit/main/protein_fitness_prediction) repo. I've edited it accordingly
+1) Get protein_fitness_prediction.yml from [THIS repo](https://raw.githubusercontent.com/Ortlund-Laboratory/topfit/main/protein_fitness_prediction). I've edited it accordingly
   
 2) Set and export the variable
 
